@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalKendaraan", "RentalKendaraan\RentalKendaraan.csproj", "{83550208-E8AC-428F-A1D3-45B2B691D6E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentalKendaraan", "RentalKendaraan\RentalKendaraan.csproj", "{564317F3-7D01-47C1-B4FE-F5EEEF443613}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{83550208-E8AC-428F-A1D3-45B2B691D6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{83550208-E8AC-428F-A1D3-45B2B691D6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{83550208-E8AC-428F-A1D3-45B2B691D6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{83550208-E8AC-428F-A1D3-45B2B691D6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564317F3-7D01-47C1-B4FE-F5EEEF443613}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564317F3-7D01-47C1-B4FE-F5EEEF443613}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564317F3-7D01-47C1-B4FE-F5EEEF443613}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564317F3-7D01-47C1-B4FE-F5EEEF443613}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {4315E3FD-037E-4B76-A18E-33DE24FE056E}
+		SolutionGuid = {BD5D0F8E-4494-431B-B4A9-8B230F0FB1DC}
 	EndGlobalSection
 EndGlobal
